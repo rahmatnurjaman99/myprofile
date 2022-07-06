@@ -12,15 +12,15 @@
                     <div class="swiper-wrapper align-items-center">
       
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/silkroad.png')}}" alt="">
                       </div>
       
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/silkroad.png')}}" alt="">
                       </div>
 
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/silkroad.png')}}" alt="">
                       </div>
       
                     </div>
@@ -32,15 +32,17 @@
                   <div class="portfolio-info">
                     <h3>Project information</h3>
                     <ul>
-                      <li><strong>Category</strong>: Article</li>
-                      <li><strong>Client</strong>: HM Sampoerna</li>
-                      <li><strong>Project URL</strong>: <a href="https://www.newshub.id/commercial-gallery/website/awake/homepage.html" target="blank">Click Here</a></li>
+                      <li><strong>Category</strong>: CMS</li>
+                      <li><strong>Client</strong>: -</li>
+                      <li><strong>Project URL</strong>: <a href="http://silkroad.kl-youniverse.com/" target="blank">Click Here</a></li>
                     </ul>
                   </div>
                   <div class="portfolio-description">
-                    <h2>This is an example of awake site</h2>
+                    <h2>This is an example of portfolio Silkroad site</h2>
                     <p>
-                      Selection article with SSO integration.
+                      REST API client and CMS video automator to create a new video from video template.<br/>
+                      Integrated with Moovly.com. Also publish the video result to Youtube.com and Vidio.com automatically.
+                      Report from Youtube Analytics available on this site.
                     </p>
                   </div>
                 </div>

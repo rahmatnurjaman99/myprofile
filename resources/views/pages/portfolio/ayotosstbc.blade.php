@@ -12,15 +12,15 @@
                     <div class="swiper-wrapper align-items-center">
       
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/ayotosstbc.png')}}" alt="">
                       </div>
       
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/ayotosstbc.png')}}" alt="">
                       </div>
 
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/ayotosstbc.png')}}" alt="">
                       </div>
       
                     </div>
@@ -33,14 +33,14 @@
                     <h3>Project information</h3>
                     <ul>
                       <li><strong>Category</strong>: Article</li>
-                      <li><strong>Client</strong>: HM Sampoerna</li>
-                      <li><strong>Project URL</strong>: <a href="https://www.newshub.id/commercial-gallery/website/awake/homepage.html" target="blank">Click Here</a></li>
+                      <li><strong>Client</strong>: Kementrian Kesehatan RI</li>
+                      <li><strong>Project URL</strong>: <a href="https://www.newshub.id/commercial-gallery/website/ayotostbc2021/index.html" target="blank">Click Here</a></li>
                     </ul>
                   </div>
                   <div class="portfolio-description">
-                    <h2>This is an example of awake site</h2>
+                    <h2>This is an example of portfolio ayotosstbc site</h2>
                     <p>
-                      Selection article with SSO integration.
+                      Selection article, and give information about clinic location to take care TBC.
                     </p>
                   </div>
                 </div>

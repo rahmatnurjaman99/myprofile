@@ -12,15 +12,15 @@
                     <div class="swiper-wrapper align-items-center">
       
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/sinemart.png')}}" alt="">
                       </div>
       
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/sinemart.png')}}" alt="">
                       </div>
 
                       <div class="swiper-slide">
-                        <img src="{{ asset('assets/img/portfolio/awake.png')}}" alt="">
+                        <img src="{{ asset('assets/img/portfolio/sinemart.png')}}" alt="">
                       </div>
       
                     </div>
@@ -32,15 +32,16 @@
                   <div class="portfolio-info">
                     <h3>Project information</h3>
                     <ul>
-                      <li><strong>Category</strong>: Article</li>
-                      <li><strong>Client</strong>: HM Sampoerna</li>
-                      <li><strong>Project URL</strong>: <a href="https://www.newshub.id/commercial-gallery/website/awake/homepage.html" target="blank">Click Here</a></li>
+                      <li><strong>Category</strong>: Submission</li>
+                      <li><strong>Client</strong>: Indosiar</li>
+                      <li><strong>Project URL</strong>: <a href="https://www.newshub.id/commercial-gallery/website/sinemart-casting/html/index.html" target="blank">Click Here</a></li>
                     </ul>
                   </div>
                   <div class="portfolio-description">
-                    <h2>This is an example of awake site</h2>
+                    <h2>This is an example of portfolio Sinemart Casting site</h2>
                     <p>
-                      Selection article with SSO integration.
+                      Submisson form to be an Indosiar artist, with uploading image and video files.<br/>
+                      Integrated with vidio.com API.
                     </p>
                   </div>
                 </div>

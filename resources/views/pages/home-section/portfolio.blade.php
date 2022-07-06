@@ -14,7 +14,7 @@
             <li data-filter=".filter-submission">Submisson</li>
             <li data-filter=".filter-event">Event</li>
             <li data-filter=".filter-article">Article</li>
-            <li data-filter=".filter-automator">Automator</li>
+            <li data-filter=".filter-cms">CMS</li>
           </ul>
         </div>
       </div>
@@ -55,7 +55,7 @@
             <div class="portfolio-wrap">
               <img src="./assets/img/portfolio/dacademy.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="./assets/img/portfolio/dacadeny.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="D'academy"><i class="bx bx-plus"></i></a>
+                <a href="./assets/img/portfolio/dacademy.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="D'academy"><i class="bx bx-plus"></i></a>
                 <a href="portfolio/dacademy.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -101,7 +101,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-automator">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-cms">
             <div class="portfolio-wrap">
               <img src="./assets/img/portfolio/silkroad.png" class="img-fluid" alt="">
               <div class="portfolio-links">
